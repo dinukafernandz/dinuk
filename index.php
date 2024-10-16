@@ -115,7 +115,7 @@
             </div>
             <div class="form-buttons">
                 <input type="submit" value="Proceed">
-                <input type="button" value="Cancel" onclick="window.location.href='index.php';">
+                <input type="button" value="Cancel" onclick="window.location.href='index.html';">
             </div>
         </form>
     </div>
